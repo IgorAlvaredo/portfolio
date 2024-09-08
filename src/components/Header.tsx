@@ -6,7 +6,7 @@ export default function Header() {
             <label className="text-xl font-bold flex items-center p-2 h-full cursor-pointer hover:text-green-500 hover:scale-110">IGOR ALVAREDO</label>
             <ul className="flex flex-row h-full items-center gap-2">
                 <li className="flex text-lg items-center p-2 h-full cursor-pointer hover:text-green-500 hover:scale-110">Contato</li>
-                <li className="flex text-lg items-center p-2 h-full cursor-pointer hover:text-green-500 hover:scale-110">Sobre</li>
+                <li className="flex text-lg items-center p-2 h-full cursor-pointer hover:text-green-500 hover:scale-110">Objetivos</li>
                 <li className="flex text-lg items-center p-2 h-full cursor-pointer hover:text-green-500 hover:scale-110">Projetos</li>
             </ul>
         </nav>
