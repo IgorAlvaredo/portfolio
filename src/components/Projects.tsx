@@ -8,7 +8,8 @@ export default function Projects() {
     return (
         <section className="flex flex-col items-center w-full bg-zinc-900 gap-5">
             <Title title={'Projetos'} />
-            <div className="container grid grid-cols-2 gap-4">
+            <div className="container grid grid-cols-3 gap-4">
+                <CardProject />
                 <CardProject />
                 <CardProject />
             </div>
