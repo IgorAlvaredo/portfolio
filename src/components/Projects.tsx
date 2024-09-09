@@ -9,9 +9,9 @@ export default function Projects() {
         <section className="flex flex-col items-center w-full bg-zinc-900 gap-5">
             <Title title={'Projetos'} />
             <div className="container grid grid-cols-3 gap-4">
-                <CardProject />
-                <CardProject />
-                <CardProject />
+                <CardProject title={"aaaaaaaaaaaaaaa"} description={"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"} url={""} image={""} />
+                <CardProject title={"aaaaaaaaaaaaaaa"} description={"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"} url={""} image={""} />
+                <CardProject title={"aaaaaaaaaaaaaaa"} description={"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"} url={""} image={""} />
             </div>
         </section>
     );
